@@ -4,7 +4,13 @@ This is the start of my GitHub bio.
 
 ## Technologies
 
-[WIP]
+I enjoy working with Python, C++, and JS/TS. My experience with JS also involves React and Redux. Might also try learning Vue in the future. Learning graphics programming is also on the list.
+
+* Python
+* C++
+* Basics of Modern OpenGL
+* JavaScript (React and Redux)
+* TypeScript
 
 ## Projects
 
