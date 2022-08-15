@@ -20,5 +20,5 @@ I enjoy working with Python, C++, and JS/TS. My experience with JS also involves
 
 If there's a need to contact me, do so via Discord or ProtonMail.
 
-* Discord - saintabomination#0001
+* Discord - saintabomination#0716
 * ProtonMail - saint.abomination@protonmail.com
